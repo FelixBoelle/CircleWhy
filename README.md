@@ -1,1 +1,2 @@
-# CircleWhyThis is a CircleWhy project.
+# CircleWhy
+This is a CircleWhy project.
